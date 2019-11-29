@@ -7,6 +7,8 @@
 # 安装依赖
 npm install
 
+npm install vue-awesome-swiper --save
+
 # 运行
 npm run dev
 
